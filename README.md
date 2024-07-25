@@ -15,7 +15,6 @@
 
 ```bash
 git clone git@github.com:YourUsername/treestore.git
-cd treestore
 ```
 
 Запуск:
