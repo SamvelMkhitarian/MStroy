@@ -14,7 +14,7 @@
 Загрузка проекта и переход в директорию
 
 ```bash
-git clone git@github.com:YourUsername/treestore.git
+git clone git@github.com:SamvelMkhitarian/MStroy.git
 ```
 
 Запуск:
